@@ -5,6 +5,7 @@ Project developed for the subject Distributed Systems at Federal University of A
 
 ## External libs
 https://github.com/google/gson version 2.8.7
+
 In order to compile the project, copy and paste the external lib to:
 
 ` C:\<project_path>\bin `
