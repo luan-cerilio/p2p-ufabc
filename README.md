@@ -1,4 +1,6 @@
 # p2p-ufabc
+![System Overview](system_overview.png)
+
 P2P system for transferring video files between Peers, intermediated by a centralized server, using UDP for communication with the Server and TCP between Peers.
 
 Project developed for the subject Distributed Systems at Federal University of ABC - Brazil. :brazil:
