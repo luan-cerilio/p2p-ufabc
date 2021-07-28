@@ -17,17 +17,17 @@ https://github.com/google/gson version 2.8.7
 Copy and paste the external lib to:
 
 ` C:\<project_path>\bin `
-From Windows, open the command line (cmd) and change directory to the project path:
+
+### Console
+From Windows, open the command line (cmd) and change directory to the path:
 
 ` cd C:\<project_path>\bin `
 
-### Server
 First, initialize the server. Execute:
 
 ` java -cp gson-2.8.7.jar; project.Servidor `
 
-### Peer
-Then, the peer:
+Then, the Peers:
 
 ` java -cp gson-2.8.7.jar; project.Peer `
 
